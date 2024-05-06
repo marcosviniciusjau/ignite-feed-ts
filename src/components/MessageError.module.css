@@ -1,0 +1,9 @@
+.messageError{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background: var(--red-500);
+    color: var(--gray-100);
+    font-size: 0.875rem;
+    line-height: 1.6;
+}
